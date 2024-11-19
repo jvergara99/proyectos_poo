@@ -20,6 +20,5 @@ public class App {
             System.out.println("Abitat: " + animales[i].getHabitat());
             System.out.println();
         }
-
     }
 }
