@@ -24,6 +24,7 @@ public class App {
                     lis301.searchStudent(in.nextInt());
                     break;
                 case 3: // Borrar estudiante
+                    System.out.println("Ingresa Id de estudiante: ");
                     
                     break;
                 case 4: // Imprimir por género
