@@ -1,3 +1,4 @@
+package SistemaPeaje;
 public abstract class Vehiculo {
     String placa;
 
